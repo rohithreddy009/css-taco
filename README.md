@@ -12,7 +12,7 @@ Welcome to The Taco Website! This project showcases a website dedicated to tacos
 
 ## Demo
 
-To see a live demo of the website, you can visit [The Taco Website](https://rohithreddy009.github.io/css-taco).
+To see a live demo of the website, you can visit [The Taco Website](https://css-taco.netlify.app).
 
 ## Features
 
